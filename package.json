@@ -8,5 +8,6 @@
     "type": "git"
   },
   "author": "Mario Vejlupek <mario@vejlupek.cz>",
-  "license": "MIT"
+  "license": "MIT",
+  "types": "./index.d.ts"
 }
