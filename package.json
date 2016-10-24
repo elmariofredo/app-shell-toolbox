@@ -1,0 +1,12 @@
+{
+  "name": "app-shell-toolbox",
+  "version": "1.0.0",
+  "description": "Helper methods for App Shell",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:elmariofredo/app-shell-toolbox.git",
+    "type": "git"
+  },
+  "author": "Mario Vejlupek <mario@vejlupek.cz>",
+  "license": "MIT"
+}
