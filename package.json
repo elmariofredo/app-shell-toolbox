@@ -1,13 +1,22 @@
 {
   "name": "app-shell-toolbox",
   "version": "1.0.0",
-  "description": "Helper methods for App Shell",
-  "main": "index.js",
+  "description": "App Shell Toolbox",
+  "main": "index.ts",
   "repository": {
     "url": "git@github.com:elmariofredo/app-shell-toolbox.git",
     "type": "git"
   },
   "author": "Mario Vejlupek <mario@vejlupek.cz>",
   "license": "MIT",
-  "types": "./index.d.ts"
+  "dependencies": {
+    "@types/systemjs": "^0.19.31",
+    "@types/whatwg-fetch": "^0.0.32",
+    "lodash.isobject": "^3.0.2",
+    "systemjs": "^0.19.40",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "script-loader": "^0.7.0"
+  }
 }
