@@ -1,6 +1,6 @@
 {
   "name": "app-shell-toolbox",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "App Shell Toolbox",
   "main": "index.ts",
   "repository": {
