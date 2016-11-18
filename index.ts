@@ -1,4 +1,4 @@
-import 'script!systemjs/dist/system';
+import 'script-loader!systemjs/dist/system';
 import 'whatwg-fetch';
 
 interface AppShellAPIBootConfig {
